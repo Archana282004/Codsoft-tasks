@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap');
+body{
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav ul{
+    float: right;
+    line-height: 80px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 0px 5px;
+    
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+    padding: 7px 8px;
+    font-size: 20px;
+}
+nav ul li a:hover{
+    background-color: cornflowerblue;
+    transition: o.5s ease;
+}
+.one{
+    height: 400px;
+    width: 650px;
+    margin: 20px;
+    display: inline;
+}
+.two{
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 30px;
+}
+.four{
+    display: inline; 
+    font-size:80px;
+    color: cornflowerblue;
+    font-family: "Playwrite NG Modern", cursive;
+}
+.btn{
+    color: #fff;
+    padding: 12px 25px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #f15048;
+    margin-left: 30px;
+    padding: 20px;
+    margin-top: 30px;
+}
+.btn:hover{
+    background-color: black;
+    transition: 0.5s ease;
+}

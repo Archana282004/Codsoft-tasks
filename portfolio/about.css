@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap');
+body{
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.one{
+    font-size: 40px;
+    display: block;
+    text-align: center;
+}
+div{
+    margin-right:500px;
+    margin-left: 500px;
+    margin-top:20px;
+    padding:20px;
+    margin-bottom:20px;
+    border-style: solid;
+}
+.three{
+    height:250px;
+    width: 420px;
+}
+.two{
+    font-size: 30px;
+}
+.five{
+    height:200px;
+    width:200px;
+    padding 100px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}

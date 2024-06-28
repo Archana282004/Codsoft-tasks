@@ -1,0 +1,24 @@
+body{
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.one{
+    font-size: 40px;
+    display: block;
+    text-align: center;
+}
+.five{
+    color: slateblue;
+}
+.four{
+    color: brown;
+    width: 500px;
+}
+div{
+    border: 1px;
+    border-style: solid;
+    padding: 20px;
+    margin: 20px;
+    width: 600px;
+}
